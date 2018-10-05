@@ -1,0 +1,19 @@
+{
+  "name": "polygons",
+  "version": "1.0.0",
+  "description": "Create and transform a cluster of polygons",
+  "main": "polygons.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexh546/polygons.git"
+  },
+  "author": "Alexander Holmbäck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexh546/polygons/issues"
+  },
+  "homepage": "https://github.com/alexh546/polygons#readme"
+}
